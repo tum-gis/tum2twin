@@ -1,0 +1,43 @@
+<a href="https://www.tum.de/en/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" height="80">
+</a>
+
+# tum2twin
+
+This repository contains [CityGML](https://www.ogc.org/standard/citygml/) LOD3 models of the [Technical University of Munich](https://www.tum.de/en/).
+
+> **Warning**
+> The models are currently under construction and are therefore in a beta version.
+
+## 🚀 Getting Started
+
+To clone the repo, run:
+
+```bash
+git clone --depth 1 git@github.com:tum-gis/tum2twin.git
+```
+
+The directory contains:
+
+- [citygml-lod2-datasets](./citygml-lod2-datasets): LOD2 building models of the [Landesamt für Digitalisierung,
+Breitband und Vermessung](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
+- [sketchup-projects](./sketchup-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
+- [citygml-lod3-datasets](./citygml-lod3-datasets): Exported CityGML v2 LOD3 building models
+
+The file names follow the GML IDs of the [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2).
+
+## 🛠️ Contributing
+
+If you find any errors or deficiencies, please create an [issue](https://github.com/tum-gis/tum2twin/issues).
+Improvements and extensions of the models are also highly welcome.
+
+## 🎓 Research
+
+This is a placeholder for publications that use these models.
+
+## 🤝 Acknowlegement
+
+- [Landesamt für Digitalisierung,
+Breitband und Vermessung (LDBV)](https://www.ldbv.bayern.de) for their great [open data](https://geodaten.bayern.de/opengeodata/) offering
+- [AI4TWINNING](https://www.mdsi.tum.de/gni/gni-funded-projects/ai4twinning/)
