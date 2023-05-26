@@ -20,12 +20,18 @@ git clone --depth 1 git@github.com:tum-gis/tum2twin.git
 
 The directory contains:
 
-- [citygml-lod2-datasets](./citygml-lod2-datasets): LOD2 building models of the [Landesamt für Digitalisierung,
-Breitband und Vermessung](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
+- [citygml-lod2-datasets](./citygml-lod2-datasets): LOD2 building models of the [Bavarian State Office for Digitizing, Broadband and Survey (LDBV)](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
 - [sketchup-projects](./sketchup-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
 - [citygml-lod3-datasets](./citygml-lod3-datasets): Exported CityGML v2 LOD3 building models
 
 The file names follow the GML IDs of the [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2).
+
+## 🧪 Model Collection
+
+The goal of tum2twin is to contribute to a collection of different representations of the TUM campus and its surroundings to promote research and development of new methods.
+
+- [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2): tum2twin follows and preserves the structure of the official LOD2 building models (tile [690_5336](https://download1.bayernwolke.de/a/lod2/citygml/690_5336.gml) and [690_5334](https://download1.bayernwolke.de/a/lod2/citygml/690_5334.gml))
+- [TUM-FAÇADE](https://github.com/oloocki/tum-facade): MLS point clouds with facade-level labels
 
 ## 🛠️ Contributing
 
