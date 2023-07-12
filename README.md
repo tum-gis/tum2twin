@@ -47,3 +47,4 @@ This is a placeholder for publications that use these models.
 - [Landesamt für Digitalisierung,
 Breitband und Vermessung (LDBV)](https://www.ldbv.bayern.de) for their great [open data](https://geodaten.bayern.de/opengeodata/) offering
 - [AI4TWINNING](https://www.mdsi.tum.de/gni/gni-funded-projects/ai4twinning/)
+- [3D Mapping Solutions](https://www.3d-mapping.de/home/) for providing high-grade 3D point clouds within the scope of the MoFa project
