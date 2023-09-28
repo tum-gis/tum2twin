@@ -14,6 +14,7 @@ This repository contains [CityGML](https://www.ogc.org/standard/citygml/) LOD3 m
 
 ## 🚀 Getting Started
 
+The datasets are stored on a dedicated [GitLab repository](https://gitlab.lrz.de/tum-gis/tum2twin-datasets).
 To clone the repo, make sure to have [Git LFS](https://git-lfs.com/) installed and run:
 
 ```bash
@@ -23,7 +24,7 @@ git clone --depth 1 git@gitlab.lrz.de:tum-gis/tum2twin-datasets.git
 The tum2twin-dataset repository contains:
 
 - [citygml-lod2-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod2-datasets): LOD2 building models of the [Bavarian State Office for Digitizing, Broadband and Survey (LDBV)](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
-- [sketchup-projects]([./sketchup-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup-projects)): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
+- [sketchup-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
 - [citygml-lod3-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod3-datasets): Exported CityGML v2 LOD3 building models
 
 The file names follow the GML IDs of the [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2).
