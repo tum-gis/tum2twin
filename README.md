@@ -43,7 +43,10 @@ Improvements and extensions of the models are also highly welcome.
 
 ## 🎓 Research
 
-This is a placeholder for publications that use these models.
+Publications that use the dataset:
+
+- [Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf), CVPRW '23 proceedings
+- [TUM-FAÇADE: Reviewing and enriching point cloud benchmarks for façade segmentation](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.html), ISPRS Archives, ArCH '22 proceedings 
 
 ## 🤝 Acknowlegement
 
