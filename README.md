@@ -27,6 +27,7 @@ The tum2twin-dataset repository contains:
 - [citygml-lod2-textured-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod2-textured-datasets): LOD2 textured building models
 - [sketchup-lod3-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup-lod3-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
 - [citygml-lod3-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod3-datasets): Exported CityGML v2 LOD3 building models
+- [citygml-lod3-vegetation-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod3-vegetation-datasets): Trees modelled using [this workflow](https://github.com/SabineZa/Automatic_Tree_Cadastre)
 
 The file names follow the GML IDs of the [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2).
 
@@ -48,8 +49,9 @@ Publications that use the dataset:
 
 - [Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf), CVPRW '23 proceedings
 - [TUM-FAÇADE: Reviewing and enriching point cloud benchmarks for façade segmentation](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.html), ISPRS Archives, ArCH '22 proceedings 
+- [Automatisierte Generierung eines Baumkatasters aus Punktwolken in unterschiedlichen urbanen Umgebungen](https://mediatum.ub.tum.de/1713266), Masterarbeit 2023, Technische Universität München, [Github Repository](https://github.com/SabineZa/Automatic_Tree_Cadastre)
 
-## 🤝 Acknowlegement
+## 🤝 Acknowledgement
 
 - [Landesamt für Digitalisierung,
 Breitband und Vermessung (LDBV)](https://www.ldbv.bayern.de) for their great [open data](https://geodaten.bayern.de/opengeodata/) offering
