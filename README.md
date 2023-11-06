@@ -9,8 +9,6 @@ This repository contains [CityGML](https://www.ogc.org/standard/citygml/) LOD3 m
 
 ![screenshot](./docs/screenshot.png)
 
-> **Warning**
-> The models are currently under construction and are therefore in a beta version.
 
 ## 🚀 Getting Started
 
