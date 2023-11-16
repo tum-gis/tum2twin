@@ -21,12 +21,14 @@ git clone --depth 1 git@gitlab.lrz.de:tum-gis/tum2twin-datasets.git
 
 The tum2twin-dataset repository contains:
 
-- [citygml-lod2-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod2-datasets): LOD2 building models of the [Bavarian State Office for Digitizing, Broadband and Survey (LDBV)](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
-- [citygml-lod2-textured-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod2-textured-datasets): LOD2 textured building models
-- [sketchup-lod2-textured-models-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup-lod2-textured-datasets-projects): LOD2 SketchUp projects for texturing the building models
-- [sketchup-lod3-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup-lod3-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
-- [citygml-lod3-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod3-datasets): Exported CityGML v2 LOD3 building models
-- [citygml-lod3-vegetation-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml-lod3-vegetation-datasets): Trees modelled using [this workflow](https://github.com/SabineZa/Automatic_Tree_Cadastre)
+- CityGML
+  - [lod2-building-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod2-building-datasets): LOD2 building models of the [Bavarian State Office for Digitizing, Broadband and Survey (LDBV)](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2)
+  - [lod2-textured-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod2-textured-building-datasets): LOD2 textured building models
+  - [lod3-building-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod3-building-datasets): Exported CityGML v2 LOD3 building models
+  - [lod3-vegetation-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod3-vegetation-datasets): Trees modelled using [this workflow](https://github.com/SabineZa/Automatic_Tree_Cadastre)
+- SketchUp
+  - [lod2-textured-building-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup/lod2-textured-building-projects): LOD2 SketchUp projects for texturing the building models
+  - [lod3-building-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup/lod3-building-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
 
 The file names follow the GML IDs of the [LDBV](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2).
 
