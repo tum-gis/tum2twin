@@ -57,6 +57,8 @@ Publications that use the dataset:
 - [Automatisierte Generierung eines Baumkatasters aus Punktwolken in unterschiedlichen urbanen Umgebungen](https://mediatum.ub.tum.de/1713266), Masterarbeit 2023, Technische Universität München, [Github Repository](https://github.com/SabineZa/Automatic_Tree_Cadastre)
 - [Thermal Mapping from Point Clouds to 3D Building Model Facades](https://www.mdpi.com/2072-4292/15/19/4830), Remote Sensing journal, 2023
 - [Evaluation of the Effect of Enriched Facade Models on Image-Based Localization of Vehicles](https://mediatum.ub.tum.de/1720655), Bachelorthesis 2023, Technical University of Munich, [Github Repository](https://github.com/AntoniaBie/LoD3ForLocalization)
+- [Reconstructing Façade Details Using MLS Point Clouds and Bag-of-Words Approach](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_21) , 3DGeoInfo 2023
+- [Inpainting of unseen façade objects using deep learning methods](https://mediatum.ub.tum.de/1520877?show_id=1734241), Masterarbeit 2023 , Technische Universität München
 
 ## 🤝 Acknowledgement
 
