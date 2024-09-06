@@ -26,6 +26,8 @@ The tum2twin-dataset repository contains:
   - [lod2-textured-building-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod2-textured-building-datasets): LOD2 textured building models
   - [lod3-building-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod3-building-datasets): Exported CityGML v2 LOD3 building models
   - [lod3-vegetation-datasets](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/citygml/lod3-vegetation-datasets): Trees modelled using [this workflow](https://github.com/SabineZa/Automatic_Tree_Cadastre)
+- OpenDRIVE
+  - [openDrive Map](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/opendrive/lod3_road_models): OpenDRIVE Map for the central campus area (work in progress)
 - SketchUp
   - [lod2-textured-building-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup/lod2-textured-building-projects): LOD2 SketchUp projects for texturing the building models
   - [lod3-building-projects](https://gitlab.lrz.de/tum-gis/tum2twin-datasets/-/tree/main/sketchup/lod3-building-projects): SketchUp projects modelled according to [this guideline](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
